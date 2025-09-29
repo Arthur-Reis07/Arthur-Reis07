@@ -34,6 +34,5 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arthurreis007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Arthur Reis" /></a>
-<a href="mailto:kauafe54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail rreisarthur79@gmail.com" /></a>
+<a href="mailto:rreisarthur79@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail rreisarthur79@gmail.com" /></a>
 </p>
-Só para deixar salvo aqui
