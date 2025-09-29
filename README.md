@@ -1,7 +1,7 @@
 # Olá, eu sou o Arthur Reis! 👋
 
 <p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas no <strong>IFSP - Campus Cubatão</strong>, onde também concluí o curso técnico em Informática.
+  Sou estudante de Análise e Desenvolvimento de Sistemas no <strong>IFSP - Campus Cubatão</strong>
   <br>
   Atualmente, estou aprimorando minhas habilidades no curso de Aprendizagem Industrial como Operador de Suporte em Tecnologia da Informação.
 </p>
@@ -23,9 +23,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/KauaJenior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaJenior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaJenior&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Arthur-Reis07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Reis07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Reis07&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 ## 📫 Contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kauã-jenior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Kauã Jenior" /></a>
-<a href="mailto:kauafe54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kauafe54@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/arthurreis007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Arthur Reis" /></a>
+<a href="mailto:kauafe54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail rreisarthur79@gmail.com" /></a>
 </p>
 Só para deixar salvo aqui
