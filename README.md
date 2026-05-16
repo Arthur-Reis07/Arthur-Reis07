@@ -19,7 +19,6 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" height="50"/>
 </p>
 
