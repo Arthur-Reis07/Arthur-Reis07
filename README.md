@@ -1,7 +1,7 @@
-# Hi there, I'm Arthur Reis 👋
+# Olá, eu sou o Arthur Reis 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+%40+IFSP;Especializando+em+IA+%40+IFNMG;Entusiasta+de+Data+Science+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+%40+IFSP;Especializando+em+IA+%40+IFNMG;Automa%C3%A7%C3%A3o+de+Processos+%26+TI" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Foco em IA / Data:**
+**Linguagens & Foco em IA:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -26,21 +26,14 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**Desenvolvimento Web & Outros:**
+**Automação, BI & Desenvolvimento:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
 </p>
 
 ---
