@@ -1,7 +1,7 @@
 # Arthur Reis
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+-+IFSP;Especializando+em+IA+-+IFNMG;Automa%C3%A7%C3%A3o+de+Processos+%26+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+-+IFSP;T%C3%A9cnico+em+IA+-+IFNMG;Automa%C3%A7%C3%A3o+de+Processos+%26+TI" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
