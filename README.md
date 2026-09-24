@@ -11,7 +11,7 @@
 - 🎓 **Educação:** Análise e Desenvolvimento de Sistemas (**IFSP - Campus Cubatão**) & Técnico em Inteligência Artificial (**IFNMG**).
 - 🏥 **Atuação Atual:** Suporte de TI, automação de processos operacionais e gestão de dados administrativos no **Hospital Municipal de Cubatão**.
 - 🎯 **Objetivo:** Evoluir continuamente para me tornar um **Engenheiro de IA** de alto nível.
-- 💡 **Interesses:** Machine Learning e Análise de Dados.a
+- 💡 **Interesses:** Análise de Dados e Machine Learning.
 
 ---
 
