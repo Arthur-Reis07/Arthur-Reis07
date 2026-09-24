@@ -1,7 +1,7 @@
-# Olá, eu sou o Arthur Reis 👋
+# Arthur Reis 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+%40+IFSP;Especializando+em+IA+%40+IFNMG;Automa%C3%A7%C3%A3o+de+Processos+%26+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0073EC&width=500&lines=Futuro+Engenheiro+de+IA;Estudante+de+ADS+-+IFSP;Especializando+em+IA+-+IFNMG;Automa%C3%A7%C3%A3o+de+Processos+%26+TI" alt="Typing SVG" />
 </p>
 
 ---
