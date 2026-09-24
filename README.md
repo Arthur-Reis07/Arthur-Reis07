@@ -24,16 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Arthur-Reis07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Reis07&layout=compact&langs_count=7&theme=dracula" alt="Top Langs Arthur"/>
-  </a>
-</div>
-
----
-
 ## 📫 Contato
 
 <p align="left">
