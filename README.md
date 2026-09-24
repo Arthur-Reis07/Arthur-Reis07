@@ -8,10 +8,10 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Educação:** Análise e Desenvolvimento de Sistemas (**IFSP - Campus Cubatão**) & Especialização em Inteligência Artificial (**IFNMG**).
+- 🎓 **Educação:** Análise e Desenvolvimento de Sistemas (**IFSP - Campus Cubatão**) & Técnico em Inteligência Artificial (**IFNMG**).
 - 🏥 **Atuação Atual:** Suporte de TI, automação de processos operacionais e gestão de dados administrativos no **Hospital Municipal de Cubatão**.
 - 🎯 **Objetivo:** Evoluir continuamente para me tornar um **Engenheiro de IA** de alto nível.
-- 💡 **Interesses:** Machine Learning, Deep Learning, Visão Computacional, Processamento de Linguagem Natural (PLN) e Automação de Processos.
+- 💡 **Interesses:** Machine Learning, Deep Learning, Visão Computacional, Processamento de Linguagem Natural (PLN) e Análise de Dados.
 
 ---
 
